@@ -26,3 +26,4 @@ The following **optional** features are implemented:
 - [X] Implement a timer that puts pressure on the user! Choose any time that works and auto submit choices after the timer expires. 
 
 ## Video Walkthrough
+![proj5 gif](https://github.com/user-attachments/assets/a44f4a28-35f7-47f6-81ec-d05903225127)
