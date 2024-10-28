@@ -11,6 +11,7 @@
 		B5D0348E2CCD8D9900AEC0EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D0348D2CCD8D9900AEC0EC /* ContentView.swift */; };
 		B5D034902CCD8D9A00AEC0EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5D0348F2CCD8D9A00AEC0EC /* Assets.xcassets */; };
 		B5D034932CCD8D9A00AEC0EC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5D034922CCD8D9A00AEC0EC /* Preview Assets.xcassets */; };
+		B5D0349A2CCD9BBF00AEC0EC /* TriviaService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D034992CCD9BBF00AEC0EC /* TriviaService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B5D0348D2CCD8D9900AEC0EC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B5D0348F2CCD8D9A00AEC0EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5D034922CCD8D9A00AEC0EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B5D034992CCD9BBF00AEC0EC /* TriviaService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriviaService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B5D0348B2CCD8D9900AEC0EC /* Trivia_GameApp.swift */,
 				B5D0348D2CCD8D9900AEC0EC /* ContentView.swift */,
+				B5D034992CCD9BBF00AEC0EC /* TriviaService.swift */,
 				B5D0348F2CCD8D9A00AEC0EC /* Assets.xcassets */,
 				B5D034912CCD8D9A00AEC0EC /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5D0349A2CCD9BBF00AEC0EC /* TriviaService.swift in Sources */,
 				B5D0348E2CCD8D9900AEC0EC /* ContentView.swift in Sources */,
 				B5D0348C2CCD8D9900AEC0EC /* Trivia_GameApp.swift in Sources */,
 			);
